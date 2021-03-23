@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/finacular/static/css/main.0c377294.chunk.css",
-    "main.js": "/finacular/static/js/main.e47e73ba.chunk.js",
-    "main.js.map": "/finacular/static/js/main.e47e73ba.chunk.js.map",
+    "main.css": "/finacular/static/css/main.af7d856b.chunk.css",
+    "main.js": "/finacular/static/js/main.a126e610.chunk.js",
+    "main.js.map": "/finacular/static/js/main.a126e610.chunk.js.map",
     "runtime-main.js": "/finacular/static/js/runtime-main.bcf2f961.js",
     "runtime-main.js.map": "/finacular/static/js/runtime-main.bcf2f961.js.map",
-    "static/js/2.50e00585.chunk.js": "/finacular/static/js/2.50e00585.chunk.js",
-    "static/js/2.50e00585.chunk.js.map": "/finacular/static/js/2.50e00585.chunk.js.map",
+    "static/js/2.7370c3e8.chunk.js": "/finacular/static/js/2.7370c3e8.chunk.js",
+    "static/js/2.7370c3e8.chunk.js.map": "/finacular/static/js/2.7370c3e8.chunk.js.map",
     "index.html": "/finacular/index.html",
-    "static/css/main.0c377294.chunk.css.map": "/finacular/static/css/main.0c377294.chunk.css.map",
-    "static/js/2.50e00585.chunk.js.LICENSE.txt": "/finacular/static/js/2.50e00585.chunk.js.LICENSE.txt"
+    "static/css/main.af7d856b.chunk.css.map": "/finacular/static/css/main.af7d856b.chunk.css.map",
+    "static/js/2.7370c3e8.chunk.js.LICENSE.txt": "/finacular/static/js/2.7370c3e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcf2f961.js",
-    "static/js/2.50e00585.chunk.js",
-    "static/css/main.0c377294.chunk.css",
-    "static/js/main.e47e73ba.chunk.js"
+    "static/js/2.7370c3e8.chunk.js",
+    "static/css/main.af7d856b.chunk.css",
+    "static/js/main.a126e610.chunk.js"
   ]
 }
